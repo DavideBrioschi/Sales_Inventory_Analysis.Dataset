@@ -1,5 +1,5 @@
-# Sales_Inventory_Analysis
-This project focuses on analyzing warehouse stock data, providing crucial insights into sales dynamics and financial aspects related to the stocked products.
+# Sales Inventory Analysis
+This project focuses on analyzing sales and warehouse stock data, providing crucial insights into sales dynamics and financial aspects related to the stocked products.
 
 ## Project Goals
 
