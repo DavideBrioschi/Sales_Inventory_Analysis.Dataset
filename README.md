@@ -34,8 +34,3 @@ Analyze and present the total discounts given, revealing insights into pricing s
 
 ### iii) Total Quantity Sold
 Calculate the total quantity of products sold, offering a clear indication of the overall sales volume within the specified period.
-
-
-
-## Contributing to the Project
-Contributions to improve this project's code or data analysis are welcomed. Please follow the contribution guidelines outlined in the CONTRIBUTING.md file.
